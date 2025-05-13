@@ -1,0 +1,7 @@
+    galaxy_info:
+      author: Rajesh
+      description: Ansible role to install Docker and display container status.
+      company: NYL
+      license: MIT
+      min_ansible_version: 2.9
+    dependencies: []
